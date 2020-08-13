@@ -20,6 +20,7 @@
 	- Giao thức HTTPS: là giao thức sẽ truyền kiểu dữ liệu an toàn, thích hợp với những web có liên quan đến thẻ tín dụng hay là một số bảo mật thông tin của khách hàng.
 	- Giao thức FTP: là giao thức này không giớ giạn số lượng máy tính và có thể gửi dữ liệu đến 1 hoặc nhiều máy tính khác một cách trực tiếp.
 ![mô hình tcp/ip](https://i.imgur.com/zS45izp.png)
+![port](https://i.imgur.com/TfFbRki.png)
 ## 2. So Sánh Mô Hình OSI và TCP/IP
 ![mo hinh osi va tcp/ip](https://i.imgur.com/ZbHib4A.png)
 ### Mô hình OSI 
